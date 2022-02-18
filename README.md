@@ -15,6 +15,10 @@ Proposez des variations, partagez-les et amusez-vous!
 Bruno Bord propose de superbes idées pour des "Conférences à la con". Ces idées peuvent faire de très bonnes contraintes pour une partie Powerpoint Karaoké.
 https://github.com/brunobord/conconf
 
+# Quelques powerpoints pour s'amuser
+Voici quelques exemples que vous pouvez utiliser ou vous inspirer pour créer les votres !
+https://drive.google.com/drive/folders/1-eXnd-Dope_3ML9_8FLtTMJyf-6QyxAx?usp=sharing
+
 # Ressources
 Voici quelques sources de powerpoints, générateurs, etc..
 - http://www.pptkaraoke.co/
